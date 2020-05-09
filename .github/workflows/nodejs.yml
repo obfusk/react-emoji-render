@@ -1,7 +1,7 @@
 name: Node.js CI
 on:
   push:
-    branches: [ master, fix-ci ]
+    branches: [ master, ubfusk-patch-1 ]
     pull_request:
 jobs:
   test:
